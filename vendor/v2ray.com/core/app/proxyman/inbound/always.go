@@ -2,7 +2,7 @@ package inbound
 
 import (
 	"context"
-
+	"log"
 	"v2ray.com/core"
 	"v2ray.com/core/app/proxyman"
 	"v2ray.com/core/common"
@@ -69,6 +69,9 @@ func NewAlwaysOnInboundHandler(ctx context.Context, tag string, receiverConfig *
 	nl := p.Network()
 	pr := receiverConfig.PortRange
 	address := receiverConfig.Listen.AsAddress()
+
+	log.Println(address)
+
 	if address == nil {
 		address = net.AnyIP
 	}
@@ -91,6 +94,8 @@ func NewAlwaysOnInboundHandler(ctx context.Context, tag string, receiverConfig *
 	for port := pr.From; port <= pr.To; port++ {
 		if net.HasNetwork(nl, net.Network_TCP) {
 			newError("creating stream worker on ", address, ":", port).AtDebug().WriteToLog()
+
+			log.Println("creating stream work on ")
 
 			worker := &tcpWorker{
 				address:         address,
