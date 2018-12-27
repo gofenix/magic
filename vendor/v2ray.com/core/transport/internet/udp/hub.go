@@ -2,6 +2,7 @@ package udp
 
 import (
 	"context"
+	"log"
 
 	"v2ray.com/core/common/buf"
 	"v2ray.com/core/common/net"
@@ -60,6 +61,7 @@ func ListenUDP(ctx context.Context, address net.Address, port net.Port, streamSe
 	if err != nil {
 		return nil, err
 	}
+	log.Println("listening udp on ", address, ":", port)
 	newError("listening UDP on ", address, ":", port).WriteToLog()
 	hub.conn = udpConn.(*net.UDPConn)
 	hub.cache = make(chan *Payload, hub.capacity)

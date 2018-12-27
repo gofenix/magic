@@ -5,6 +5,7 @@ import (
 	gotls "crypto/tls"
 	"strings"
 
+	"log"
 	"v2ray.com/core/common"
 	"v2ray.com/core/common/net"
 	"v2ray.com/core/common/session"
@@ -30,6 +31,7 @@ func ListenTCP(ctx context.Context, address net.Address, port net.Port, streamSe
 	if err != nil {
 		return nil, err
 	}
+	log.Println("listening tcp on", address, ":", port)
 	newError("listening TCP on ", address, ":", port).WriteToLog(session.ExportIDToError(ctx))
 
 	tcpSettings := streamSettings.ProtocolSettings.(*Config)

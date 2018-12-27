@@ -78,3 +78,19 @@ func StartV2RayByJSON(configBytes []byte) (*core.Instance, error) {
 
 	return core.New(pbConfig)
 }
+
+func StartV2RayByJSONStart(configBytes []byte) ( error) {
+	jsonConfig := bytes.NewReader(configBytes)
+	pbConfig, err := serial.LoadJSONConfig(jsonConfig)
+	if err != nil {
+		log.Println(err)
+		return err
+	}
+
+	instance, err := core.New(pbConfig)
+	if err != nil {
+		log.Println(err)
+		return err
+	}
+	return instance.Start()
+}
