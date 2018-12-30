@@ -2,231 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d35e1b9d-49c8-4b19-8a89-64c9ab7c1d13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/magic.go" beforeDir="false" afterPath="$PROJECT_DIR$/magic.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/magic_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/clone.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/decode.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/deprecated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/discard.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/encode.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/equal.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/extensions.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/lib.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/message_set.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_reflect.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/pointer_unsafe.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/properties.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/table_marshal.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/table_merge.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/table_unmarshal.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/github.com/golang/protobuf/proto/text_parser.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/WORKSPACE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/annotations.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/dispatcher/config.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/dispatcher/config.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/dispatcher/default.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/dispatcher/dispatcher.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/dispatcher/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/dispatcher/sniffer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/dispatcher/stats.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/proxyman/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/proxyman/config.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/proxyman/config.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/proxyman/inbound/always.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/proxyman/inbound/dynamic.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/proxyman/inbound/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/proxyman/inbound/inbound.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/proxyman/inbound/worker.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/proxyman/outbound/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/proxyman/outbound/handler.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/proxyman/outbound/outbound.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/app/proxyman/proxyman.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/azure-pipelines.template.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/azure-pipelines.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/bitmask/byte.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/buf/buf.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/buf/buffer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/buf/copy.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/buf/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/buf/io.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/buf/multi_buffer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/buf/reader.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/buf/readv_posix.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/buf/readv_reader.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/buf/readv_reader_wasm.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/buf/readv_windows.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/buf/writer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/bytespool/pool.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/common.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/compare/bytes.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/crypto/aes.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/crypto/auth.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/crypto/chacha20.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/crypto/chunk.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/crypto/crypto.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/crypto/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/crypto/internal/chacha.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/crypto/internal/chacha_core.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/crypto/internal/chacha_core_gen.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/crypto/io.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/dice/dice.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/errors/errors.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/errors/multi_error.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/interfaces.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/log/access.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/log/log.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/log/log.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/log/log.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/log/logger.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/mux/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/mux/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/mux/frame.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/mux/mux.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/mux/reader.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/mux/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/mux/session.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/mux/writer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/address.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/address.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/address.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/connection.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/destination.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/destination.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/destination.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/net.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/network.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/network.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/network.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/port.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/port.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/port.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/net/system.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/platform/others.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/platform/platform.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/platform/windows.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/account.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/address.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/bittorrent/bittorrent.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/context.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/headers.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/headers.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/headers.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/http/headers.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/http/sniff.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/id.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/payload.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/protocol.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/server_picker.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/server_spec.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/server_spec.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/server_spec.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/time.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/tls/cert/cert.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/tls/cert/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/tls/sniff.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/user.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/protocol/user.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/serial/serial.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/serial/string.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/serial/typed_message.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/serial/typed_message.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/serial/typed_message.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/session/context.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/session/session.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/signal/done/done.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/signal/notifier.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/signal/semaphore/semaphore.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/signal/timer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/stack/bytes.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/task/common.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/task/periodic.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/task/task.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/type.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/common/uuid/uuid.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/config.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/config.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/context.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/core.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/features/dns/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/features/dns/localdns/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/features/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/features/feature.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/features/inbound/inbound.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/features/outbound/outbound.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/features/policy/default.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/features/policy/policy.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/features/routing/dispatcher.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/features/routing/router.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/features/stats/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/features/stats/stats.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/functions.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/mocks.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/proto.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/proxy/proxy.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/config.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/config.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/config.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/config.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/connection.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/dialer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/header.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/internet.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/memory_settings.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/sockopt.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/sockopt_darwin.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/sockopt_linux.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/sockopt_other.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/sockopt_windows.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/system_dialer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/system_listener.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tcp/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tcp/config.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tcp/config.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tcp/dialer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tcp/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tcp/hub.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tcp/sockopt_linux.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tcp/sockopt_other.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tcp/tcp.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tcp_hub.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tls/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tls/config.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tls/config.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tls/config_other.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tls/config_windows.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tls/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/tls/tls.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/udp/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/udp/config.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/udp/config.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/udp/dialer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/udp/dispatcher.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/udp/errors.generated.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/udp/hub.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/udp/hub_linux.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/udp/hub_other.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/internet/udp/udp.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/link.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/pipe/impl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/pipe/pipe.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/pipe/reader.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/transport/pipe/writer.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/v2ray.com/core/v2ray.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/vendor.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -254,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/magic_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="554" column="14" selection-start-line="554" selection-start-column="14" selection-end-line="554" selection-end-column="14" />
+            <state relative-caret-position="228">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               <folding>
                 <element signature="e#15#123#0" expanded="true" />
                 <element signature="e#3878#7900#0" />
@@ -285,11 +61,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/magic.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="269">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+              <folding>
+                <element signature="e#15#230#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -317,8 +96,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/magic.go" />
         <option value="$PROJECT_DIR$/magic_test.go" />
+        <option value="$PROJECT_DIR$/magic.go" />
       </list>
     </option>
   </component>
@@ -340,36 +119,6 @@
             <path>
               <item name="magic" type="b2602c69:ProjectViewProjectNode" />
               <item name="magic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="magic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="GOPATH &lt;magic&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
-            </path>
-            <path>
-              <item name="magic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="GOPATH &lt;magic&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="GOPATH &lt;magic&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="v2ray.com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="GOPATH &lt;magic&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="v2ray.com" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -466,12 +215,6 @@
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestStartInstance_in_magic - 2018.12.30 at 20h 49m 52s.xml">
-      <configuration name="TestStartInstance in magic" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestStartInstance_in_magic - 2018.12.30 at 20h 50m 25s.xml">
-      <configuration name="TestStartInstance in magic" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="TestStartInstance_in_magic - 2018.12.30 at 20h 51m 06s.xml">
       <configuration name="TestStartInstance in magic" configurationId="GoTestRunConfiguration" />
     </history-entry>
@@ -496,22 +239,28 @@
     <history-entry file="TestStartInstance_in_magic - 2018.12.30 at 21h 07m 36s.xml">
       <configuration name="TestStartInstance in magic" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="TestStartInstanceConflict_in_magic - 2018.12.30 at 21h 12m 21s.xml">
+      <configuration name="TestStartInstanceConflict in magic" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestStartInstanceConflict_in_magic - 2018.12.30 at 21h 13m 01s.xml">
+      <configuration name="TestStartInstanceConflict in magic" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16237482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.53333336" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.39007092" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3744681" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27659574" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -705,20 +454,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/magic.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/magic_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="554" column="14" selection-start-line="554" selection-start-column="14" selection-end-line="554" selection-end-column="14" />
+        <state relative-caret-position="228">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           <folding>
             <element signature="e#15#123#0" expanded="true" />
             <element signature="e#3878#7900#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="e#15#230#0" expanded="true" />
           </folding>
         </state>
       </provider>
