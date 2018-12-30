@@ -1,0 +1,289 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Y2MOwzNZfl4NRNDbLCZa6sgx7O0=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "1d3f30b51784bec5aad268e59fd3c2fc1c2fe73f",
+			"revisionTime": "2018-11-28T19:23:52Z"
+		},
+		{
+			"checksumSHA1": "7U2LOh+d9dMN9cFXZ+9Jl1CqSrc=",
+			"path": "v2ray.com/core",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "Rehnb7NvK1i1DCnjFPDqK0xiaU8=",
+			"path": "v2ray.com/core/app/dispatcher",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "Pukc6EwQf0h9D4t7VAKEwjQ47lc=",
+			"path": "v2ray.com/core/app/proxyman",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "jQTleUDvd8HL8mMWLSYXdR+19Ws=",
+			"path": "v2ray.com/core/app/proxyman/inbound",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "IRai2F+3b6Dn18YO4XVY1FrdNu4=",
+			"path": "v2ray.com/core/app/proxyman/outbound",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "/s2Dyl6jvOcmj4if3nFV7FLf2D4=",
+			"path": "v2ray.com/core/common",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "+df5Me20p3MTM3JyOJDJjqa91HQ=",
+			"path": "v2ray.com/core/common/bitmask",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "CqzpVeSwcNeyzj3w+sPCKcRaM2k=",
+			"path": "v2ray.com/core/common/buf",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "nBlFfTkaAU5IF2ukksGuC12TKXA=",
+			"path": "v2ray.com/core/common/bytespool",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "d2R5aiK/lhV29aMF9m+sAwfO/jg=",
+			"path": "v2ray.com/core/common/compare",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "OUKJkfCh97mYOutKH038PhgiHhs=",
+			"path": "v2ray.com/core/common/crypto",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "n3DeBYknINsRrVbvEs0ZlQmd90U=",
+			"path": "v2ray.com/core/common/crypto/internal",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "yeCjGp7+VXvKoJG0pNGpaisueZw=",
+			"path": "v2ray.com/core/common/dice",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "EIhm6mkRD3BsNbXhsPN9iJG182Y=",
+			"path": "v2ray.com/core/common/errors",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "sqN/kPOp8R87SQ1UeowKSNQAjmY=",
+			"path": "v2ray.com/core/common/log",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "WZSEzHpqxgXb2GwKv08WSwxVEfA=",
+			"path": "v2ray.com/core/common/mux",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "L/5E/uUmjkMt9paC7vVlEo3YV8U=",
+			"path": "v2ray.com/core/common/net",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "Bq8DNRV3GeVlWEfRMUaOdvez/yM=",
+			"path": "v2ray.com/core/common/platform",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "SYdxo6dg4u3vIoR/7p75irhz4D0=",
+			"path": "v2ray.com/core/common/protocol",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "NqIllwmy4opt/JR/NpBVaI0rHdc=",
+			"path": "v2ray.com/core/common/protocol/bittorrent",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "gGTuds5T3uwyDeyvrUxbvY1XW1w=",
+			"path": "v2ray.com/core/common/protocol/http",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "xEHVoksgSdFy/Cc2VzbpRUXYuwk=",
+			"path": "v2ray.com/core/common/protocol/tls",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "/vN1U6pS1MKjCVFwpi7ugcDRroI=",
+			"path": "v2ray.com/core/common/protocol/tls/cert",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "vwSmPtJEeTdji2hTwfDBgdAINhk=",
+			"path": "v2ray.com/core/common/serial",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "Wpfny6k3O/dBJ57OBEqn7UbpkpU=",
+			"path": "v2ray.com/core/common/session",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "OrhPIO3s/yxdiwS3FIAt80n6WyE=",
+			"path": "v2ray.com/core/common/signal",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "rMNqTrCJB/Haatgo9jDAMIHd4so=",
+			"path": "v2ray.com/core/common/signal/done",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "MNLsEeOY4IGq+vbUgHGqQmsPa4o=",
+			"path": "v2ray.com/core/common/signal/semaphore",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "BMag3S7sBts+rj3fkF4OE6yrR78=",
+			"path": "v2ray.com/core/common/stack",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "Y0mUFtADYviXQ5ebepm5udag9/o=",
+			"path": "v2ray.com/core/common/task",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "wnjq5XiCyViV/CHbCQFfP+X7nWE=",
+			"path": "v2ray.com/core/common/uuid",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "2rRrfdeO8ugeB8OcUTuCKxZ3EGM=",
+			"path": "v2ray.com/core/features",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "T3WOv7zRTBjzIqYW5KOQ4KlLkNg=",
+			"path": "v2ray.com/core/features/dns",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "INCHOW9DJd2x/jVtLqryoju2qGQ=",
+			"path": "v2ray.com/core/features/dns/localdns",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "fwteQAUHnHdrD4i4U41HQEWBYTU=",
+			"path": "v2ray.com/core/features/inbound",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "XPfhOwmPMCM57wWV/GH3xrX//qQ=",
+			"path": "v2ray.com/core/features/outbound",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "/Xo5lGX4CKE1fIOL3tcDTZ/DVVw=",
+			"path": "v2ray.com/core/features/policy",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "WBHGRudYGgRtWKYc/mzkM923YGw=",
+			"path": "v2ray.com/core/features/routing",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "ngmziKNII4NMmxPDXsxfz1nYFY4=",
+			"path": "v2ray.com/core/features/stats",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "ntkUhVqtfni9CygQfzeU4OllWNc=",
+			"path": "v2ray.com/core/proxy",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "V4fdnoTswTyTlossjA2zHowHqpU=",
+			"path": "v2ray.com/core/transport",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "IDsZwUu89Mul1sYc/EIJ5uEdJUk=",
+			"path": "v2ray.com/core/transport/internet",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "oJUNoeBNqUqaZSktbw0RcCst1C8=",
+			"path": "v2ray.com/core/transport/internet/tcp",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "Nf83RWg6d7mtmW9Jd33+rklV7YU=",
+			"path": "v2ray.com/core/transport/internet/tls",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "U1PFD7VII6nWtMXGMMtG5FgpzaU=",
+			"path": "v2ray.com/core/transport/internet/udp",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		},
+		{
+			"checksumSHA1": "m1HMH2MhPqDYb7ZlOW7OkIGkwKw=",
+			"path": "v2ray.com/core/transport/pipe",
+			"revision": "daa8c9c5da3de38d1e9d3214656389086f0a8448",
+			"revisionTime": "2018-12-28T19:28:31Z"
+		}
+	],
+	"rootPath": "magic"
+}
