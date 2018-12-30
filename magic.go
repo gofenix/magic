@@ -8,6 +8,7 @@ import (
 	_ "v2ray.com/core/app/proxyman/outbound"
 )
 
-func StartInstance(pbConfigBytes []byte) {
-	core.StartInstance("protobuf", pbConfigBytes)
+func StartInstance(pbConfigBytes []byte) error {
+	_, err := core.StartInstance("protobuf", pbConfigBytes)
+	return err
 }
